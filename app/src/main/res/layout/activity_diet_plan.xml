@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"  android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+
+            android:layout_height="match_parent"
+
+            android:text="Ketogenic Diet Strict  :                                                                       Get a faster metabolism with a no carb diet plan.This is the best diet plan for quick weight loss without hunger. Your meals will include lots of fats like olive oil, cheese, and butter, but no starchy carbs like bread and pasta. Since Ketogenic Strict has an all or nothing approach, it’s a great diet plan for those who need simple rules and want to lose weight fast.  Why it works , If following the plan successfully, your body ends up in ketosis – a stage where fat storage is used as energy instead of sugar/glucose.  When consuming fat without carbs, you’ll also experience an appetite reduction which makes you eat smaller portions naturally.  ">
+
+        </TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:text="Ketogenic Diet Medium :
+Similar to Ketogenic Strict, but with a less tough approach to carbs. It can be used as a transition plan into a low-carb lifestyle to make sure your body adapts, or when you want to slowly increase your carb intake after a stricter plan.
+
+Your meals will include an increased amount of fat such as olive oil, butter, and cheese, and a decreased amount of starchy carbs like pasta. This plan is well suited for people who want to enjoy the benefits of a low carb, high fat plan without restricting themselves more than necessary.
+
+Why it works,
+Your body will get used to a lower amount of carbs and start using its fat storage as energy. You’ll feel fuller from a more stable blood sugar, but also experience a reduced appetite while not combining carbs with fat. " />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="match_parent"
+                android:text="5:2 Diet :
+Fasting 2 days a week is a simple way to lose weight without feeling like you’re constantly on a diet. (Just make sure not to eat more than you normally would on your normal eating days.)
+
+On your fasting days, you’ll eat very low calorie diet plan consisting of things such as vegetables, fruit or fish. The other 5 days you’ll be recommended to eat whatever you want within reason, yet to avoid sweets and junk food.
+
+A fasting diet plan is perfect for people who need easy rules yet want to consume what they feel like on a weekly basis. If successfully following the plan, you will benefit from mental clarity, healthy blood lipid levels, and a kick- start into a weight loss journey.
+
+Why it works
+Your weekly calorie consumption will be heavily reduced from your 2 days of fasting, which contributes to a successful weight loss.
+
+When not eating for a certain number of hours, your body has time to clear out rest products from all the normal food you eat, making you feel more energized over time. Research also suggests that fasting contributes to longevity by causing cells to repair themselves."/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="match_parent"
+                android:text="Classic Dieting :
+A traditional and effective approach to dieting where you focus on portion control and whole foods. You’ll eat regularly and cut back on sugar, refined carbs and bad fats, which is generally quite easy to adapt to. No specific food group is limited, and you’ll aim for a balance.
+
+This easy diet plan suits people with an active social lifestyle. You’ll always find something that fits your diet, even if you eat out.
+
+Why it works
+While consuming less calories than you burn, you lose weight. It’s that easy. This simple diet plan doesn’t limit any specific food group and is easy to adapt to, which reduces the risk of fall-back into old habits"/>
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
